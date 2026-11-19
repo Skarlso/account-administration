@@ -13,7 +13,6 @@ orgs:
     - a-thaler
     - AleksandarSavchev
     - alexbass01
-    - bedirhan-yilmaz
     - BoHristova
     - cbrgm
     - ChrisSchneider
@@ -22,12 +21,10 @@ orgs:
     - enrico-kaack-comp
     - guewa
     - HeckEK
-    - heldkat
     - hilmarf
     - ikhandamirov
     - iljaweis
     - In-Ko
-    - JanAms130
     - jneisener
     - lukasgr90
     - mandelsoft
@@ -36,100 +33,96 @@ orgs:
     - Michael5601
     - morri-son
     - morrison-sap
+    - olzemal
     - piotrjanik
+    - rebEllieous
     - reshnm
     - robertgraeff
     - robertwol
     - sk31337
     - Skarlso
-    - TomRomeo
-    - TorstenD-SAP
     - trevex
-    - TuanAnh17N
     - vasu1124
-    - olzemal
-    - rebEllieous
     teams:
       Admins:
         description: Admins for the Open Component Model Organization
         maintainers:
-        - zkdev
-        - frewilhelm
         - fabianburth
+        - frewilhelm
         - jakobmoellerdev
+        - zkdev
         privacy: closed
       Collaborators:
         description: Collaborators for the Open Component Model (Triage permission)
         members:
-        - hilmarf
-        - sk31337
-        - reshnm
+        - BoHristova
         - Diaphteiros
-        - In-Ko
-        - robertgraeff
         - enrico-kaack-comp
         - guewa
-        - maximilianbraun
+        - hilmarf
         - ikhandamirov
-        - BoHristova
+        - In-Ko
+        - maximilianbraun
+        - reshnm
+        - robertgraeff
+        - sk31337
         privacy: closed
         teams:
           CNLM Core:
             description: Cloud Native Lifecycle Mgmt Core Team (OCM, Landscaper, MCP)
             members:
-            - hilmarf
-            - sk31337
-            - reshnm
             - Diaphteiros
-            - In-Ko
-            - robertgraeff
             - enrico-kaack-comp
             - guewa
-            - maximilianbraun
+            - hilmarf
             - ikhandamirov
+            - In-Ko
+            - maximilianbraun
+            - reshnm
+            - robertgraeff
+            - sk31337
             privacy: closed
       Community:
         description: OCM Community
         maintainers:
         - jakobmoellerdev
         members:
-        - trevex
+        - cbrgm
         - iljaweis
         - lukasgr90
-        - cbrgm
         - olzemal
         - rebEllieous
-        - TomRomeo
+        - trevex
         privacy: closed
         teams:
           ocm-kit:
             description: ""
             maintainers:
-            - trevex
             - iljaweis
+            - trevex
             members:
-            - lukasgr90
             - cbrgm
+            - lukasgr90
             - olzemal
             - rebEllieous
             privacy: closed
       Maintainers:
         description: OCM project maintainers
         maintainers:
-        - zkdev
-        - frewilhelm
         - fabianburth
+        - frewilhelm
         - jakobmoellerdev
+        - zkdev
         members:
-        - ChrisSchneider
-        - Skarlso
-        - piotrjanik
-        - matthiasbruns
-        - jneisener
-        - a-thaler
-        - morri-son
         - 8R0WNI3
+        - a-thaler
         - alexbass01
+        - ChrisSchneider
+        - jneisener
+        - matthiasbruns
+        - morri-son
+        - piotrjanik
+        - Skarlso
         privacy: closed
       ODG Collaborators:
         description: Members are privileged to have "write" permissions to ODG related
@@ -138,27 +131,21 @@ orgs:
         - zkdev
         - 8R0WNI3
         members:
+        - AleksandarSavchev
+        - alexbass01
         - ChrisSchneider
         - dnaeon
-        - AleksandarSavchev
-        - TomRomeo
-        - TorstenD-SAP
         - Michael5601
-        - bedirhan-yilmaz
-        - TuanAnh17N
-        - heldkat
-        - JanAms130
-        - alexbass01
         privacy: closed
       ODG Maintainers:
         description: ODG (Open Delivery Gear) Maintainers
         maintainers:
-        - zkdev
         - 8R0WNI3
+        - zkdev
         members:
-        - ChrisSchneider
         - a-thaler
         - alexbass01
+        - ChrisSchneider
         privacy: closed
       Project Management:
         description: OCM Project Managers with Access to all Project Data
@@ -169,28 +156,27 @@ orgs:
       SIG Runtime:
         description: Special Interest Group Runtime (https://github.com/open-component-model/open-component-model/tree/main/docs/community/SIGs/Runtime)
         maintainers:
-        - Skarlso
-        - frewilhelm
         - fabianburth
+        - frewilhelm
         - jakobmoellerdev
+        - Skarlso
         privacy: closed
       Security:
         description: Access to all security data
         members:
-        - morri-son
-        - maximilianbraun
-        - heldkat
         - HeckEK
+        - maximilianbraun
+        - morri-son
         privacy: closed
       TSC:
         description: OCM Technical Steering Committee
         maintainers:
-        - zkdev
         - fabianburth
         - jakobmoellerdev
+        - zkdev
         members:
-        - Skarlso
+        - 8R0WNI3
         - iljaweis
         - morri-son
-        - 8R0WNI3
+        - Skarlso
         privacy: closed
