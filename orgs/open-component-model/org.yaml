@@ -26,6 +26,7 @@ orgs:
     - rebEllieous
     - Skarlso
     - trevex
+    - zkdev
     teams:
       Admins:
         description: Admins for the Open Component Model Organization
