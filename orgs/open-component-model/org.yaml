@@ -7,7 +7,6 @@ orgs:
     - frewilhelm
     - jakobmoellerdev
     - LF-Europe
-    - zkdev
     members:
     - 8R0WNI3
     - a-thaler
@@ -34,7 +33,6 @@ orgs:
         - fabianburth
         - frewilhelm
         - jakobmoellerdev
-        - zkdev
         privacy: closed
       Community:
         description: OCM Community
