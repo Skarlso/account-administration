@@ -1,0 +1,119 @@
+# Note: OCM Repository settings are managed by Safe Settings -> https://github.com/open-component-model/.github/tree/main/safe-settings
+
+orgs:
+  open-component-model:
+    admins:
+    - fabianburth
+    - frewilhelm
+    - jakobmoellerdev
+    - LF-Europe
+    members:
+    - 8R0WNI3
+    - a-thaler
+    - AleksandarSavchev
+    - alexbass01
+    - cbrgm
+    - ChrisSchneider
+    - dnaeon
+    - iljaweis
+    - jneisener
+    - lukasgr90
+    - matthiasbruns
+    - Michael5601
+    - morri-son
+    - olzemal
+    - piotrjanik
+    - rebEllieous
+    - Skarlso
+    - trevex
+    - zkdev
+    teams:
+      Admins:
+        description: Admins for the Open Component Model Organization
+        maintainers:
+        - fabianburth
+        - frewilhelm
+        - jakobmoellerdev
+        privacy: closed
+      Community:
+        description: OCM Community
+        maintainers:
+        - jakobmoellerdev
+        - zkdev
+        members:
+        - 8R0WNI3
+        - AleksandarSavchev
+        - alexbass01
+        - cbrgm
+        - ChrisSchneider
+        - dnaeon
+        - iljaweis
+        - lukasgr90
+        - Michael5601
+        - olzemal
+        - rebEllieous
+        - trevex
+        privacy: closed
+        teams:
+          ocm-kit:
+            description: ""
+            maintainers:
+            - iljaweis
+            - trevex
+            members:
+            - cbrgm
+            - lukasgr90
+            - olzemal
+            - rebEllieous
+            privacy: closed
+          odg:
+            description: Members are privileged to have "write" permissions to ODG related
+              repositories.
+            maintainers:
+            - 8R0WNI3
+            - zkdev
+            members:
+            - AleksandarSavchev
+            - alexbass01
+            - ChrisSchneider
+            - dnaeon
+            - Michael5601
+            privacy: closed
+      Maintainers:
+        description: OCM project maintainers
+        maintainers:
+        - fabianburth
+        - frewilhelm
+        - jakobmoellerdev
+        - zkdev
+        members:
+        - 8R0WNI3
+        - a-thaler
+        - alexbass01
+        - ChrisSchneider
+        - jneisener
+        - matthiasbruns
+        - morri-son
+        - piotrjanik
+        - Skarlso
+        privacy: closed
+      SIG Runtime:
+        description: Special Interest Group Runtime (https://github.com/open-component-model/open-component-model/tree/main/docs/community/SIGs/Runtime)
+        maintainers:
+        - fabianburth
+        - frewilhelm
+        - jakobmoellerdev
+        - Skarlso
+        privacy: closed
+      TSC:
+        description: OCM Technical Steering Committee
+        maintainers:
+        - fabianburth
+        - jakobmoellerdev
+        - zkdev
+        members:
+        - 8R0WNI3
+        - iljaweis
+        - morri-son
+        - Skarlso
+        privacy: closed
