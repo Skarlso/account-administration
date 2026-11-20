@@ -227,6 +227,7 @@ orgs:
         - hendrikKahl
         - Michael5601
         - marc1404
+        - OrlinVasilev
         privacy: closed
         repos:
           compliance-scan: triage
